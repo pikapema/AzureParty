@@ -1,0 +1,2 @@
+# AzureParty
+An Azure journey
